@@ -8,7 +8,7 @@
 
 [V3.7 – NET-X II](https://github.com/Chauvet-Pro/NETXII/blob/36577126b6f7cd19b13cba70d56f40264566f1e3/firmware/V3.7_03-15-24.zip)
 -	Improved performance to decrease output delay(s)
--	
+
 [V3.4 – NET-X II](https://github.com/Chauvet-Pro/NETXII/blob/36577126b6f7cd19b13cba70d56f40264566f1e3/firmware/V3.4_NET-X-II_Firmware_B1.0.zip)
 -	Fixed bug that prevented seeing signal from console depending on boot order
 -	Improved multi-console support with like manufacturers
