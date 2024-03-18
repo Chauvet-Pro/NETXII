@@ -2,7 +2,7 @@
 
 ### Installation Notes
 
-* The firmware for this product is updated via the product's Web server. For detailed instructions, reference the NETX-II [User Manual](https://www.chauvetprofessional.com/wp-content/uploads/2018/01/Net-X_II_UM_Rev8_ML4.pdf).
+* The firmware for this product is updated via the product's Web server. For detailed instructions, reference the [NET-X II User Manual](https://www.chauvetprofessional.com/wp-content/uploads/2018/01/Net-X_II_UM_Rev8_ML4.pdf).
 * For users of products with serial number **LOWER THAN 09111455 – 0823-000001**, use firmware version 3.4
 * For users of products with serial number **HIGHER THAN 09111455 – 0823-000001**, user firmware version 3.7
 
