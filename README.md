@@ -4,7 +4,7 @@
 
 * The firmware for this product is updated via the product's Web server. For detailed instructions, reference the [NET-X II User Manual](https://www.chauvetprofessional.com/wp-content/uploads/2018/01/Net-X_II_UM_Rev8_ML4.pdf).
 * For users of products with serial number **LOWER THAN 09111455 – 0823-000001**, use firmware version 3.4
-* For users of products with serial number **HIGHER THAN 09111455 – 0823-000001**, user firmware version 3.7
+* For users of products with serial number **HIGHER THAN 09111455 – 0823-000001**, use firmware version 3.7
 
 [V3.7 – NET-X II](https://github.com/Chauvet-Pro/NETXII/blob/36577126b6f7cd19b13cba70d56f40264566f1e3/firmware/V3.7_03-15-24.zip)
 -	Improved performance to decrease output delay(s)
